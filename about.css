@@ -1,16 +1,10 @@
 body{
     font-family: Mulish;
-    padding-top: 60px
-
-
 }
 /* Add a black background color to the top navigation */
 .topnav {
     background-color: #333;
     overflow: hidden;
-    position: fixed;
-    z-index: 1000; /* Adjust the z-index to keep it on top */
-    width: 100vw;
   }
   
   /* Style the links inside the navigation bar */
@@ -34,4 +28,3 @@ body{
     background-color: #04AA6D;
     color: white;
   }
-
