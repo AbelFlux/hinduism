@@ -42,6 +42,16 @@ body{
 .s2 {
   padding-left: 0.5cm;
 }
+#s2title {
+  padding-bottom: 10cm;
+}
+.s3 {
+  padding-left: 0.5cm;
+}
+#s3title {
+  padding-bottom: 10cm;
+}
+
 #s1title {
   padding-bottom: 10cm;
 }
@@ -49,3 +59,13 @@ body{
   font-size: larger;
   margin-top: -5cm;
 }
+#s2pg {
+  font-size: larger;
+  margin-top: -1cm;
+}
+
+#s3pg {
+  font-size: larger;
+  margin-top: -1cm;
+}
+
