@@ -37,16 +37,16 @@ body{
 
 
 .s1 {
-  padding-left: 0.5cm;
+  padding-left: 1cm;
 }
 .s2 {
-  padding-left: 0.5cm;
+  padding-left: 1cm;
 }
 #s2title {
   padding-bottom: 10cm;
 }
 .s3 {
-  padding-left: 0.5cm;
+  padding-left: 1cm;
 }
 #s3title {
   padding-bottom: 10cm;
@@ -61,11 +61,11 @@ body{
 }
 #s2pg {
   font-size: larger;
-  margin-top: -1cm;
+  margin-top: -6cm;
 }
 
 #s3pg {
   font-size: larger;
-  margin-top: -1cm;
+  margin-top: -5cm;
 }
 
