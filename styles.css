@@ -1,6 +1,7 @@
 body{
     font-family: Mulish;
-    padding-top: 60px
+    padding-top: 60px;
+    color: #FFF;
 
 
 }
@@ -53,7 +54,7 @@ body{
 }
 
 #s1title {
-  padding-bottom: 10cm;
+  padding-bottom: 8cm;
 }
 #s1pg {
   font-size: larger;
