@@ -1,10 +1,18 @@
-body{
-    font-family: Mulish;
-    padding-top: 60px;
-    color: #FFF;
+@media only screen and (max-width: 800px) {
+  .text-container {
+    padding-top: 100px;
+    padding-right: 40px;
+  }
+}
+
+body {
+  font-family: Mulish;
+  padding-top: 60px;
+  color: #FFF;
 
 
 }
+
 .topnav {
   overflow: hidden;
   background-color: #333;
@@ -15,8 +23,10 @@ body{
   z-index: 1000;
   transition: background-color 0.3s;
   box-sizing: border-box;
-  padding: 14px 16px; /* Adjust padding as needed */
-  text-align: center; /* Center the links */
+  padding: 14px 16px;
+  /* Adjust padding as needed */
+  text-align: center;
+  /* Center the links */
 }
 
 .topnav a {
@@ -36,19 +46,27 @@ body{
   color: white;
 }
 
+.text-container {
+  margin-right: 50px;
+  margin-top: 100px;
+}
 
 .s1 {
   padding-left: 1cm;
 }
+
 .s2 {
   padding-left: 1cm;
 }
+
 #s2title {
   padding-bottom: 10cm;
 }
+
 .s3 {
   padding-left: 1cm;
 }
+
 #s3title {
   padding-bottom: 8cm;
 }
@@ -56,10 +74,12 @@ body{
 #s1title {
   padding-bottom: 8cm;
 }
+
 #s1pg {
   font-size: larger;
   margin-top: -5cm;
 }
+
 #s2pg {
   font-size: larger;
   margin-top: -6cm;
