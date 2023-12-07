@@ -91,3 +91,7 @@ body {
   margin-top: -5cm;
 }
 
+.fullpage-wrapper {
+  height: calc(100vh - 10rem)
+}
+
